@@ -7,7 +7,7 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 
 | Company | Website | Notes | 
 |---|---|---|
-|Accenture | [https://www.accenture.com/fi-en/services/security/cyber-defense](https://wwwo.accenture.com/fi-en/services/security/cyber-defense) |
+|Accenture | [https://www.accenture.com/fi-en/services/security/cyber-defense](https://www.accenture.com/fi-en/services/security/cyber-defense) |
 |CGI | [https://www.cgi.com/fi/fi/tietoturva/SOC](https://www.cgi.com/fi/fi/tietoturva/SOC)
 |Cinia | [https://www.cinia.fi/en/solutions/cyber-security-solutions](https://www.cinia.fi/en/solutions/cyber-security-solutions)
 |DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
