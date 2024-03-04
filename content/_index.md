@@ -1,6 +1,6 @@
 ---
 title: "List of SOC service providers"
-date: 2021-09-24T20:00:34Z
+date: 2024-02-23T20:00:00Z
 ---
 
 This is a list of Security Operation Center (SOC) companies in Finland. These companies can help you to monitor your infra for security incidents. Purpose of this list is to give organizations a list of active SOC companies. 
@@ -10,6 +10,7 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 |Accenture | [https://www.accenture.com/fi-en/services/security/cyber-defense](https://wwwo.accenture.com/fi-en/services/security/cyber-defense) |
 |CGI | [https://www.cgi.com/fi/fi/tietoturva/SOC](https://www.cgi.com/fi/fi/tietoturva/SOC)
 |Cinia | [https://www.cinia.fi/en/solutions/cyber-security-solutions](https://www.cinia.fi/en/solutions/cyber-security-solutions)
+|Deloitte | [https://www2.deloitte.com/fi/fi/pages/risk/solutions/soc-kyberturvallisuusvalvomo.html](https://www2.deloitte.com/fi/fi/pages/risk/solutions/soc-kyberturvallisuusvalvomo.html)|
 |DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
 |Elisa | [https://yrityksille.elisa.fi/en/cyber-security](https://yrityksille.elisa.fi/en/cyber-security)
 |Enfo|[https://insights.enfogroup.com/cybersecurity](https://insights.enfogroup.com/cybersecurity)
