@@ -14,11 +14,11 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 |DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
 |Elisa | [https://yrityksille.elisa.fi/en/cyber-security](https://yrityksille.elisa.fi/en/cyber-security)
 |Enfo|[https://insights.enfogroup.com/cybersecurity](https://insights.enfogroup.com/cybersecurity)
-|Fiarone | [https://www.fiarone.com/en/oversee_soc](https://www.fiarone.com/en/oversee_soc)
 |Fujitsu | [https://www.fujitsu.com/fi/services/security/offerings/soc/](https://www.fujitsu.com/fi/services/security/offerings/soc/)
 |Innofactor | [https://www.innofactor.com/what-we-do/our-products/innofactor-managed-detection-and-response-as-a-service/](https://www.innofactor.com/what-we-do/our-products/innofactor-managed-detection-and-response-as-a-service/) |
 |Insta | [https://www.insta.fi/en/services/cyber-security/soc-services](https://www.insta.fi/en/services/cyber-security/soc-services) |
 |Loihde | [https://www.loihdetrust.com/palvelut/kyberturvakeskus/](https://www.loihdetrust.com/palvelut/kyberturvakeskus/)
+|NetNordic | [https://netnordic.fi/mita-me-teemme/tietoturva/security-operations-center/](https://netnordic.fi/mita-me-teemme/tietoturva/security-operations-center/)
 |Netox | [https://netox.fi/palvelut/kyberturvapalvelut/](https://netox.fi/palvelut/kyberturvapalvelut/) |
 |Nixu |[https://www.nixu.com/services/cyber-defense](https://www.nixu.com/services/cyber-defense) |
 |Telia Cygate | [https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service](https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service) |
