@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
   # (the theme-migration commit). While one of these is a provider's last
   # commit, it counts as not modified ("—" in the list).
   lastmodIgnoreCommits = [
-    "cb4a58fa3e09635b02b6b4bdb136b775a2551321", # Migrate provider list to one file per provider
+    "ae2dec2f36f442476490ecfbb676bce50024a558", # Rebuild csoc.fi on the shared site-theme (#11)
   ]
 
   # Appended to provider links so they can see referrals from us
