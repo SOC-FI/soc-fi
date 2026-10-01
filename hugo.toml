@@ -1,0 +1,44 @@
+baseURL = 'https://csoc.fi/'
+languageCode = 'en-us'
+title = 'CSOC Finland'
+theme = "site-theme"
+# Last-modified dates (.Lastmod, .GitInfo) come from git history
+enableGitInfo = true
+
+# Only the home (provider list), Contribute and 404 pages exist
+disableKinds = ["taxonomy", "term"]
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+
+[params]
+  brand = "CSOC.FI"
+  siteName = "csoc.fi"
+  company_name = "0J Consulting Oy"
+  company_link = "https://0j.fi"
+
+  # Commits that touched provider files without changing their content
+  # (the theme-migration commit). While one of these is a provider's last
+  # commit, it counts as not modified ("—" in the list).
+  lastmodIgnoreCommits = [
+  ]
+
+  # Appended to provider links so they can see referrals from us
+  referralQuery = "utm_source=csoc.fi&utm_medium=referral"
+
+  # Sister site: linked from the menu, opens in the same tab with a glitch
+  # transition. dfir.fi points back here, so the effect works both ways.
+  [params.sisterSite]
+    name = "DFIR.FI"
+    url = "https://dfir.fi/"
+
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Contribute"
+  pageRef = "/contribute"
+  weight = 11
